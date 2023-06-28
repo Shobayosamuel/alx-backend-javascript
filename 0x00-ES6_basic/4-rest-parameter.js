@@ -4,4 +4,4 @@ export default function returnHowManyArguments(...args) {
 	  len += 1;
 	}
 	return len;
-  }
+}
